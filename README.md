@@ -1,10 +1,10 @@
 # CSE_803
 
 ## Objective
-### The objective of this project is to allow you to experience the entire process of developing a practical computer vision system, which includes data collection, manual labeling, algorithm design, code development for both training and testing, performance evaluation, etc. Although one obvious goal is to achieve higher recognition accuracy, being able to observe how each step in the development pipeline affects the final performance is equally important.
+The objective of this project is to allow you to experience the entire process of developing a practical computer vision system, which includes data collection, manual labeling, algorithm design, code development for both training and testing, performance evaluation, etc. Although one obvious goal is to achieve higher recognition accuracy, being able to observe how each step in the development pipeline affects the final performance is equally important.
 
 ## Description
-### As the low cost imaging devices, such as smartphone cameras and digital cameras, become increasingly popular, more and more applications are being developed to make use of these devices for better quality of life. In this project, you will develop a software system to automatically recognize the typical meals in your daily life from images. Examples of meals can be salad, hotdog, French fry, burger, apple, banana, bread, pizza, etc.
+As the low cost imaging devices, such as smartphone cameras and digital cameras, become increasingly popular, more and more applications are being developed to make use of these devices for better quality of life. In this project, you will develop a software system to automatically recognize the typical meals in your daily life from images. Examples of meals can be salad, hotdog, French fry, burger, apple, banana, bread, pizza, etc.
 
 ## Development tasks
 * Data collection: you need to collect your own image database, for both training and testing. Once you decide the list of objects (types of meal) in your system, you may take as many images as possible using any camera for each meal type, which allows you to use part of them for training and the remaining for testing. If you wish, feel free to simplify the problem by placing the meal on an easy-to-segment background.
