@@ -1,4 +1,4 @@
-# CSE_803
+# Meal recognition project
 
 ## Objective
 The objective of this project is to allow you to experience the entire process of developing a practical computer vision system, which includes data collection, manual labeling, algorithm design, code development for both training and testing, performance evaluation, etc. Although one obvious goal is to achieve higher recognition accuracy, being able to observe how each step in the development pipeline affects the final performance is equally important.
